@@ -14,6 +14,11 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,postgresql,docker,rabbitmq,vscode,postman,idea,eclipse)](https://skillicons.dev)
 
+## Experiences
+- [AIMET.TECH](https://github.com/AIMET-mentalhealth) : Collaborated with a team of five individuals under the supervision of Assistant Professor Natawut Nupairoj within AIMET Company. Our collective effort was dedicated to the development of a data science service focused on the analysis of mental health issues, with the primary goal of identifying their causes and origins.
+- [Vishnu21 LineOA](https://github.com/esc-chula) : Collaborated with the Faculty of Engineering development team during the Vishnu 21 event to create the Line OA web app. This application was designed for first-year participants to share crucial information about the college and event-related announcement.
+- [The 17th Thailand Olympiad in Informatics](https://web.facebook.com/photo/?fbid=328875552404497&set=pcb.328875735737812) : Received a bronze medal in TOI17, a prestigious competition that brought together the top 90 students from Thailand to engage in competitive programming problem-solving.
+
 ## Projects
 - [ProgMeth Station](https://github.com/10-Days-Project-2023) : Collaborated with a team of four during Thinc's 10-days project in 2023 to created the ProgMethstation. This application was designed for buying and selling games.
 - [Ship Hide](https://github.com/NasmeenI/Ship-Hide) : Collaborated with a team of two to develop Ship Hide, a 2.5D puzzle RPG game. The game features a combination of shooting mechanics and an immersive storyline.
