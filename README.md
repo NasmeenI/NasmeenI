@@ -28,11 +28,11 @@
 - and many more ... (See my [Repositories](https://github.com/NasmeenI?tab=repositories))
 
 ## Social Accounts
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nasmeen_meen/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/697783963963490407)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/NasmeenI)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](nasmeen2503@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nasmeen-islam-7175572ab/)
 
 ## Statistics
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NasmeenI&&show_icons=true&theme=dark&exclude_repo=Thai-Word-Cutter" alt="NasmeenI" /></p>
