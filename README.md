@@ -9,10 +9,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,scala,go,c,cpp)](https://skillicons.dev)
 
 ### Framworks
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nestjs,go,fastapi,prismae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nestjs,go,fastapi,prisma)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,postgresql,docker,rabbitmq,vscode,postman,idea,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,postgresql,docker,rabbitmq,vscode,postman,idea,eclipse,aws)](https://skillicons.dev)
 
 ## Experiences
 - [AIMET.TECH](https://github.com/AIMET-mentalhealth) : Collaborated with a team of five individuals under the supervision of Assistant Professor Natawut Nupairoj within AIMET Company. Our collective effort was dedicated to the development of a data science service focused on the analysis of mental health issues, with the primary goal of identifying their causes and origins.
