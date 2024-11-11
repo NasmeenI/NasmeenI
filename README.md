@@ -15,8 +15,13 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,postgresql,docker,rabbitmq,vscode,postman,idea,eclipse,aws)](https://skillicons.dev)
 
 ## Experiences
-- [AIMET.TECH](https://github.com/AIMET-mentalhealth) : Collaborated with a team of five individuals under the supervision of Assistant Professor Natawut Nupairoj within AIMET Company. Our collective effort was dedicated to the development of a data science service focused on the analysis of mental health issues, with the primary goal of identifying their causes and origins.
-- [Vishnu21 LineOA](https://github.com/esc-chula) : Collaborated with the Faculty of Engineering development team during the Vishnu 21 event to create the Line OA web app. This application was designed for first-year participants to share crucial information about the college and event-related announcement.
+- [AIMET.TECH](https://github.com/AIMET-mentalhealth) :
+    - Championed the end-to-end development of a mental health chatbot project using large language models (LLMs) across three platforms: chatbot, prompt development, and evaluation.
+    - Designed a microservices architecture to enhance modularity and scalability
+    - Developed a data transfer system for large datasets with a key-value database, ensuring efficient,low-latency communication
+    - Established a queuing protocol for reliable inter-service coordination
+    - Directed the complete process from system architecture design to deployment, ensuring high performance and security standards.
+- [Chulalongkorn University, Faculty of Engineering IT Team](https://github.com/esc-chula) : Collaborated with the Faculty of Engineering development team during the Vishnu 21 event to create the Line OA web app. This application was designed for first-year participants to share crucial information about the college and event-related announcement.
 - [The 17th Thailand Olympiad in Informatics](https://web.facebook.com/photo/?fbid=328875552404497&set=pcb.328875735737812) : Received a bronze medal in TOI17, a prestigious competition that brought together the top 90 students from Thailand to engage in competitive programming problem-solving.
 
 ## Projects
